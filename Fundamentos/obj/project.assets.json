@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Israe\\Documents\\MeusProjetos\\Bootcamp WEX - Desenvolvimento .NET e QA # DIO\\Fundamentos\\Fundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\Israe\\Documents\\MeusProjetos\\Projetos de Estudos\\Bootcamp WEX - Desenvolvimento .NET e QA # DIO\\Bootcamp_WEX_Desenvolvimento.NET_e_QA-DIO\\Fundamentos\\Fundamentos.csproj",
       "projectName": "Fundamentos",
-      "projectPath": "C:\\Users\\Israe\\Documents\\MeusProjetos\\Bootcamp WEX - Desenvolvimento .NET e QA # DIO\\Fundamentos\\Fundamentos.csproj",
+      "projectPath": "C:\\Users\\Israe\\Documents\\MeusProjetos\\Projetos de Estudos\\Bootcamp WEX - Desenvolvimento .NET e QA # DIO\\Bootcamp_WEX_Desenvolvimento.NET_e_QA-DIO\\Fundamentos\\Fundamentos.csproj",
       "packagesPath": "C:\\Users\\Israe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Israe\\Documents\\MeusProjetos\\Bootcamp WEX - Desenvolvimento .NET e QA # DIO\\Fundamentos\\obj\\",
+      "outputPath": "C:\\Users\\Israe\\Documents\\MeusProjetos\\Projetos de Estudos\\Bootcamp WEX - Desenvolvimento .NET e QA # DIO\\Bootcamp_WEX_Desenvolvimento.NET_e_QA-DIO\\Fundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Israe\\AppData\\Roaming\\NuGet\\NuGet.Config",

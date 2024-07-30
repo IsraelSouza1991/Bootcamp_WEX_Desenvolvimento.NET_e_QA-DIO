@@ -14,7 +14,8 @@ namespace Fundamentos.Models
         // Métodos / funções
         public void Apresentar()
         {
-            Console.WriteLine($"Olá, meu nome é {Nome}\n, e tenho {Idade} anos");
+            Console.WriteLine($"Olá, meu" +
+             "nome é {Nome}\n, e tenho {Idade} anos");
         }
     }
 }
